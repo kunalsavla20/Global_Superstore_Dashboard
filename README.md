@@ -6,7 +6,8 @@ Top 5 High-Profit and Low-Profit Products: Gain visibility into the most profita
 Top 10 Customer Sales by Segment: Identify the top 10 customers in each segment based on their sales. Understand the preferences and buying patterns of different customer segments, allowing for targeted marketing and personalized customer experiences.
 
 Sales Trends by Market and Region: Explore sales trends across different markets and regions. Understand which markets and regions are driving revenue growth and identify potential opportunities for expansion or improvement.
-# SOftware Used
+# Software Used
 1) PowerBI
 2) Excel
+
 ![Screenshot](screenshot.png)
