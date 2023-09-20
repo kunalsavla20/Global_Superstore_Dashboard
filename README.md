@@ -25,17 +25,17 @@ In conclusion, the global superstore dashboard is a powerful tool for businesses
 
 ## Benefits of Using the Global Superstore Dashboard
 The benefits of using the global superstore dashboard include:
-•	Enhanced visibility of high-profit and low-profit products
-•	Improved understanding of customer preferences and buying patterns
-•	Identification of revenue growth drivers and market opportunities
-•	Targeted marketing and personalized customer experiences
-•	Data-driven decision-making for business optimization
+1. Enhanced visibility of high-profit and low-profit products
+2. Improved understanding of customer preferences and buying patterns
+3. Identification of revenue growth drivers and market opportunities
+4. Targeted marketing and personalized customer experiences
+5. Data-driven decision-making for business optimization
 
 ## Next Steps for Implementing Data-Driven Decision-Making
-•	To implement data-driven decision-making, businesses should:
-•	Ensure data accuracy and reliability
-•	Train employees on data analysis and interpretation
-•	Establish a culture of data-driven decision-making
-•	Continuously monitor and evaluate performance metrics
-•	Regularly update and refine the global superstore dashboard
+1. To implement data-driven decision-making, businesses should:
+2. Ensure data accuracy and reliability
+3. Train employees on data analysis and interpretation
+4. Establish a culture of data-driven decision-making
+5. Continuously monitor and evaluate performance metrics
+6. Regularly update and refine the global superstore dashboard
 
