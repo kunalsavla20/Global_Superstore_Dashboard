@@ -1,6 +1,10 @@
 # Global_Superstore_Dashboard
 This project showcases an interactive global superstore dashboard using PowerBI. It provides valuable insights into the sales performance, profitability, and customer segmentation of a global superstore. The dashboard enables data-driven decision-making, optimizing product and customer performance, and extracting actionable insights.
 
+# Project Outline:
+In today's competitive retail landscape, understanding and optimizing sales performance, profitability, and customer segmentation are paramount for success. Our global superstore faces challenges in effectively analyzing and utilizing its vast dataset to make data-driven decisions.
+This project aims to address these challenges by creating an interactive PowerBI dashboard that provides comprehensive insights into our global superstore's operations.
+
 # Methodology
 I gathered and cleaned data from various sources, ensuring data quality.
 PowerBI was used for analysis and visualization, with custom calculations.
