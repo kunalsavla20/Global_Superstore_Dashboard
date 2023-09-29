@@ -5,10 +5,16 @@ This project showcases an interactive global superstore dashboard using PowerBI.
 In today's competitive retail landscape, understanding and optimizing sales performance, profitability, and customer segmentation are paramount for success. Our global superstore faces challenges in effectively analyzing and utilizing its vast dataset to make data-driven decisions.
 This project aims to address these challenges by creating an interactive PowerBI dashboard that provides comprehensive insights into our global superstore's operations.
 
-# Methodology
-I gathered and cleaned data from various sources, ensuring data quality.
-PowerBI was used for analysis and visualization, with custom calculations.
-Efforts were made to optimize dashboard performance, especially for large datasets.
+# Data Cleaning and Preprocessing:
+In this project, I used Power Query to perform robust data cleaning and preprocessing on global superstore dataset. Data cleaning and preprocessing are fundamental steps in ensuring that the data used for analysis is accurate, consistent, and ready for insightful visualization and analysis.
+1. Data Integration
+Power Query played a pivotal role in integrating data from these diverse sources into a unified dataset. We combined tables, transformed data types, and handled any data inconsistencies or duplications. This integration step laid the foundation for comprehensive analysis.
+2. Handling Missing Data
+Addressing missing data is critical for accurate analysis. Power Query allowed us to identify and handle missing values effectively. Depending on the context, I applied techniques such as imputation, removal of incomplete records, or interpolation to fill gaps in the data.
+3. Data Cleansing
+Dataset underwent thorough data cleansing using Power Query's capabilities. This involved identifying and correcting data inconsistencies, such as typos, duplicate entries, and irregular formatting. Ensuring data uniformity was crucial for meaningful analysis.
+
+By harnessing the power of Power Query, I was able to prepare the data for in-depth analysis, enabling data-driven decision-making, and facilitating the creation of an insightful PowerBI dashboard.
 
 # Key Features
 Top 5 High-Profit and Low-Profit Products: Gain visibility into the most profitable and least profitable products in the global superstore. Analyze the factors contributing to their performance and identify areas for improvement.
