@@ -49,3 +49,10 @@ The benefits of using the global superstore dashboard include:
 5. Continuously monitor and evaluate performance metrics
 6. Regularly update and refine the global superstore dashboard
 
+# Limitations and Challenges:
+1. Data Messiness: Dealing with messy data, like missing values and inconsistent formatting
+2. Resource Constraints: Working with limited computational resources, which can slow down data processing.
+3. Time Crunch: Balancing the need for thorough data analysis with project deadlines.
+4. Data Size: Handling and analyzing large datasets, which can be time-consuming.
+5. Data Understanding: Grappling with understanding the data and its context.
+
