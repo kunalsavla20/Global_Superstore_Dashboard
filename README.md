@@ -26,7 +26,8 @@ Sales Trends by Market and Region: Explore sales trends across different markets
 1) PowerBI
 2) Excel
 
-![Screenshot](screenshot.png)
+
+![screenshot](PNG_Files/screenshot.png)
 
 # Conclusion
 
