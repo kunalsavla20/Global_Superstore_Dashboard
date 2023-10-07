@@ -14,6 +14,8 @@ Addressing missing data is critical for accurate analysis. Power Query allowed u
 3. Data Cleansing
 Dataset underwent thorough data cleansing using Power Query's capabilities. This involved identifying and correcting data inconsistencies, such as typos, duplicate entries, and irregular formatting. Ensuring data uniformity was crucial for meaningful analysis.
 
+# Conclusion
+
 By harnessing the power of Power Query, I was able to prepare the data for in-depth analysis, enabling data-driven decision-making, and facilitating the creation of an insightful PowerBI dashboard.
 
 # Key Features
